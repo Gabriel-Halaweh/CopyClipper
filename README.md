@@ -8,6 +8,7 @@ Copy Clipper is a screen capture tool that enables users to select portions of t
 - **OCR Integration**: Automatically recognize and extract text from the selected screen area.
 - **Clipboard Management**: Copy the extracted text directly to the clipboard.
 - **Multi-monitor Support**: Works across multiple monitors.
+![Copyclip](https://github.com/Gabriel-Halaweh/CopyClipper/assets/115294138/3ae5d815-9f2b-4847-bd7f-10b4e721af4d)
 
 ## Usage
 
