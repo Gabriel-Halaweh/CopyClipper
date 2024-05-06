@@ -9,6 +9,27 @@ Copy Clipper is a screen capture tool that enables users to select portions of t
 - **Clipboard Management**: Copy the extracted text directly to the clipboard.
 - **Multi-monitor Support**: Works across multiple monitors.
 
+## Usage
+
+### Activating Screen Capture Mode
+To start capturing a portion of your screen:
+1. Hold down **CTRL + SHIFT + SPACE**. This will activate the screen capture mode.
+2. Once activated, you will see the screen's overlay indicating that you are in capture mode.
+
+### Making Selections
+- **Lasso Tool**: Click and hold the left mouse button, then move the mouse to draw a freeform shape around the area you want to capture. Release the button to complete the selection.
+- **Rectangle Tool**: Click and hold the right mouse button, then drag to draw a rectangular shape. Release the button to finalize the rectangle.
+
+### Size Limitations
+The OCR functionality is optimized for images up to 1500 pixels in width or height. Ensure that the selected area does not exceed these dimensions to maintain accuracy and performance.
+
+### Copying Text to Clipboard
+After releasing the mouse button to finalize your selection, the tool automatically processes the captured area, extracts readable text using OCR, and copies this text directly to your clipboard.
+
+### Exiting Screen Capture Mode
+- To exit the screen capture mode at any time, press **SHIFT + SPACE + ESC**. 
+
+
 ## Installation
 
 To use Copy Clipper, you need to have Python installed on your machine along with several dependencies. Here's how you can set it up:
