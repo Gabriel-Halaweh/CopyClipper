@@ -3,7 +3,7 @@
 Copy Clipper is a screen capture tool that enables users to select portions of their screen either via a lasso tool or a rectangular selection. The selected area is then processed to extract readable text using OCR (Optical Character Recognition), and the text is automatically copied to the clipboard.
 
 #### Dispclaimer
-* Easy OCR is not 100% accurate
+* Easy OCR is not 100% accurate.
 
 ## Features
 
